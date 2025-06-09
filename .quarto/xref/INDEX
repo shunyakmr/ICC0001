@@ -4,5 +4,38 @@
   },
   "about.qmd": {
     "about.html": "6c6f04a2"
+  },
+  "00-index.qmd": {
+    "00-index.html": "f3a5f07d"
+  },
+  "01-.qmd": {
+    "01-.html": "b70e5da9"
+  },
+  "02-.qmd": {
+    "02-.html": "55770ee6"
+  },
+  "01-importance.qmd": {
+    "01-importance.html": "36de5123"
+  },
+  "02-conditions.qmd": {
+    "02-conditions.html": "34afb5d0"
+  },
+  "03-pillars.qmd": {
+    "03-pillars.html": "64fe0c59"
+  },
+  "04-obligatory.qmd": {
+    "04-obligatory.html": "ddd70bba"
+  },
+  "05-demo.qmd": {
+    "05-demo.html": "dc84167d"
+  },
+  "06-rulings.qmd": {
+    "06-rulings.html": "78545ad3"
+  },
+  "07-recommended.qmd": {
+    "07-recommended.html": "6b9dcb72"
+  },
+  "08-resources.qmd": {
+    "08-resources.html": "1a7d0850"
   }
 }

@@ -1,0 +1,14 @@
+# global variables
+
+meta:
+  title: ICC0001
+
+urls:
+  u01: "01-importance.html"
+  u02: "02-conditions.html"
+  u03: "03-pillars.html"
+  u04: "04-obligatory.html"
+  u05: "05-demo.html"
+  u06: "06-rulings.html"
+  u07: "07-recommended.html"
+  u08: "08-resources.html"

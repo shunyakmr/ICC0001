@@ -1,0 +1,39 @@
+---
+title: "Prayer for New Muslims"
+---
+
+## Welcome {.unnumbered}
+
+A bit about ICC here...
+
+## Target Audience {.unnumbered}
+
+Explain who this course is for...
+Explain about the steps here...
+
+## Course Outline {.unnumbered}
+
+The topics covered are:
+
+| Section | Topic |
+| :--- |:------------------ |
+| 1    | [Importance of Prayer]({{< var urls.u01 >}}) |
+| 1    | [Conditions/Prerequisites of Prayer]({{< var urls.u02 >}}) | 
+| 2    | [Pillars of Prayer]({{< var urls.u03 >}}) | 
+| 2    | [Obligatory Acts of Prayer]({{< var urls.u04 >}}) |
+| 2    | [Prayer Demonstrated]({{< var urls.u05 >}}) |
+| 3    | [Rulings Related to Prayer]({{< var urls.u06 >}})|
+| 3    | [Recommended Actions]({{< var urls.u07 >}})|
+
+## Acknowledgements {.unnumbered}
+
+Ali's name as the lead author...
+Shunya and James as the editor...
+
+This workbook is created using the [Quarto](https://quarto.org/) publishing system. Elements of this workbook are partially based on and modified from:
+
+- INSERT ANY MATERIAL HERE
+
+This year's workbook also takes inspiration and design elements from:
+
+- The [GEOG0030: Geocomputation 2023-2024](https://jtvandijk.github.io/GEOG0030_20232024/) workbook by [Justin van Dijk](https://www.mappingdutchman.com)

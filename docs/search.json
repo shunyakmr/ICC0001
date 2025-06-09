@@ -1,16 +1,68 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "ICC0001",
+    "objectID": "02-conditions.html",
+    "href": "02-conditions.html",
+    "title": "Conditions/Prerequisites of Prayer",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "sdfa",
+    "crumbs": [
+      "Section 1",
+      "Conditions/Prerequisites of Prayer"
+    ]
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "00-index.html",
+    "href": "00-index.html",
+    "title": "Prayer for New Muslims",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "A bit about ICC here…",
+    "crumbs": [
+      "Module overview",
+      "Welcome"
+    ]
+  },
+  {
+    "objectID": "00-index.html#welcome",
+    "href": "00-index.html#welcome",
+    "title": "Prayer for New Muslims",
+    "section": "",
+    "text": "A bit about ICC here…",
+    "crumbs": [
+      "Module overview",
+      "Welcome"
+    ]
+  },
+  {
+    "objectID": "00-index.html#target-audience",
+    "href": "00-index.html#target-audience",
+    "title": "Prayer for New Muslims",
+    "section": "Target Audience",
+    "text": "Target Audience\nExplain who this course is for… Explain about the steps here…",
+    "crumbs": [
+      "Module overview",
+      "Welcome"
+    ]
+  },
+  {
+    "objectID": "00-index.html#course-outline",
+    "href": "00-index.html#course-outline",
+    "title": "Prayer for New Muslims",
+    "section": "Course Outline",
+    "text": "Course Outline\nThe topics covered are:\n\n\n\nSection\nTopic\n\n\n\n\n1\nImportance of Prayer\n\n\n1\nConditions/Prerequisites of Prayer\n\n\n2\nPillars of Prayer\n\n\n2\nObligatory Acts of Prayer\n\n\n2\nPrayer Demonstrated\n\n\n3\nRulings Related to Prayer\n\n\n3\nRecommended Actions",
+    "crumbs": [
+      "Module overview",
+      "Welcome"
+    ]
+  },
+  {
+    "objectID": "00-index.html#acknowledgements",
+    "href": "00-index.html#acknowledgements",
+    "title": "Prayer for New Muslims",
+    "section": "Acknowledgements",
+    "text": "Acknowledgements\nAli’s name as the lead author… Shunya and James as the editor…\nThis workbook is created using the Quarto publishing system. Elements of this workbook are partially based on and modified from:\n\nINSERT ANY MATERIAL HERE\n\nThis year’s workbook also takes inspiration and design elements from:\n\nThe GEOG0030: Geocomputation 2023-2024 workbook by Justin van Dijk",
+    "crumbs": [
+      "Module overview",
+      "Welcome"
+    ]
   }
 ]

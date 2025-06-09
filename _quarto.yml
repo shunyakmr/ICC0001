@@ -1,22 +1,65 @@
 project:
   type: website
   output-dir: docs
+  
+lang: en
 
-website:
-  title: "prayer"
-  navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+execute:
+  freeze: false
+  cache: false
 
 format:
   html:
-    theme:
-      - cosmo
-      - brand
-    css: styles.css
-    toc: true
+      theme:
+        light: flatly
+        dark:  darkly
+      callout-appearance: simple
+      css: assets/styles.css
+      toc: true
+      toc-depth: 4
+      smooth-scroll: true
+      highlight-style: atom-one
+      number-sections: true
+      number-depth: 4
+      pagetitle: "{{< var meta.title >}}"
 
+website:
+  repo-url: https://github.com/shunyakmr/ICC0001
+  repo-actions: [issue]
+  page-navigation: true
+  page-footer:
+    center: "Presented by [the ICC](https://www.iccuk.org/). Available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)."
+  search:
+    location: sidebar
+    type: overlay
+  sidebar:
+    style: floating
+    collapse-level: 2
+    logo: assets/icclogo99.jpg
+    tools:
+      - icon: github
+        href: https://github.com/shunyakmr/ICC0001
+    contents:
+      - section: "Module overview"
+        contents:
+          text: "Welcome"
+          file: 00-index.qmd
+      - section: "Section 1"
+        contents:
+        - 01-importance.qmd
+        - 02-conditions.qmd
+      - section: "Section 2"
+        contents:
+        - 03-pillars.qmd
+        - 04-obligatory.qmd
+        - 05-demo.qmd
+      - section: "Section 3"
+        contents:
+        - 06-rulings.qmd
+        - 07-recommended.qmd
+      - section: "Additional Resources"
+        contents:
+        - 08-resources.qmd
+  
 editor: visual
 

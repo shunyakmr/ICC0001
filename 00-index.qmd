@@ -27,13 +27,13 @@ The topics covered are:
 
 ## Acknowledgements {.unnumbered}
 
-Ali's name as the lead author...
-Shunya and James as the editor...
+Sh Ali Ruwaiba as the lead-author...
+Dr Shunya Kimura and James Sampson as the editor...
 
 This workbook is created using the [Quarto](https://quarto.org/) publishing system. Elements of this workbook are partially based on and modified from:
 
 - INSERT ANY MATERIAL HERE
 
-This year's workbook also takes inspiration and design elements from:
+This year's workbook takes inspiration and design elements from:
 
 - The [GEOG0030: Geocomputation 2023-2024](https://jtvandijk.github.io/GEOG0030_20232024/) workbook by [Justin van Dijk](https://www.mappingdutchman.com)

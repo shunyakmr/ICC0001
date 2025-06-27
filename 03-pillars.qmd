@@ -1,3 +1,19 @@
 ---
-title: "Pillars of Prayer"
+title: "Pillars of Salah"
 ---
+
+ACTIONS of Salah.
+
+There are obligatory and non-obligatory.
+
+Add a flow-chart (make in mermaid)
+
+Append a video!
+
+Surah-tul Fatiha
+
+Tashahhud
+
+::: callout-tip
+Islam is a **lifestyle change**. It may take you some time to learn the prayer, but **persevere** for the sake of your Creator and in time the prayer will become natural, If Allah Wills!
+:::

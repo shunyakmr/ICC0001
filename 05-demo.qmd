@@ -2,7 +2,7 @@
 title: "Salah Demonstrated"
 ---
 
-## Salah with Two Units
+## Salah with Two Units {#sec-two-units-demo}
 
 APPEND A VIDEO HERE.
 

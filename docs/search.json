@@ -1,27 +1,5 @@
 [
   {
-    "objectID": "07-cases.html",
-    "href": "07-cases.html",
-    "title": "Practical Scenarios",
-    "section": "",
-    "text": "Or change the title to Common Questions… Because it kind of clashes with the previous Section.",
-    "crumbs": [
-      "Beautifying Your Salah",
-      "Practical Scenarios"
-    ]
-  },
-  {
-    "objectID": "07-cases.html#how-do-i-pray-with-others",
-    "href": "07-cases.html#how-do-i-pray-with-others",
-    "title": "Practical Scenarios",
-    "section": "1 How Do I Pray with Others?",
-    "text": "1 How Do I Pray with Others?",
-    "crumbs": [
-      "Beautifying Your Salah",
-      "Practical Scenarios"
-    ]
-  },
-  {
     "objectID": "07-cases.html#what-is-the-friday-prayer-jummah",
     "href": "07-cases.html#what-is-the-friday-prayer-jummah",
     "title": "Practical Scenarios",
@@ -44,11 +22,22 @@
     ]
   },
   {
+    "objectID": "07-cases.html#funeral-prayer-janazah",
+    "href": "07-cases.html#funeral-prayer-janazah",
+    "title": "Practical Scenarios",
+    "section": "4 Funeral Prayer (Janazah)",
+    "text": "4 Funeral Prayer (Janazah)",
+    "crumbs": [
+      "Beautifying Your Salah",
+      "Practical Scenarios"
+    ]
+  },
+  {
     "objectID": "07-cases.html#what-happens-when-i-travel",
     "href": "07-cases.html#what-happens-when-i-travel",
     "title": "Practical Scenarios",
-    "section": "4 What Happens when I Travel?",
-    "text": "4 What Happens when I Travel?",
+    "section": "5 What Happens when I Travel?",
+    "text": "5 What Happens when I Travel?",
     "crumbs": [
       "Beautifying Your Salah",
       "Practical Scenarios"
@@ -58,8 +47,8 @@
     "objectID": "07-cases.html#for-sisters-what-about-during-menstruation-postnatal-bleeding-and-irregular-bleeding",
     "href": "07-cases.html#for-sisters-what-about-during-menstruation-postnatal-bleeding-and-irregular-bleeding",
     "title": "Practical Scenarios",
-    "section": "5 For Sisters, What About During Menstruation, Postnatal Bleeding and Irregular Bleeding?",
-    "text": "5 For Sisters, What About During Menstruation, Postnatal Bleeding and Irregular Bleeding?",
+    "section": "6 For Sisters, What About During Menstruation, Postnatal Bleeding and Irregular Bleeding?",
+    "text": "6 For Sisters, What About During Menstruation, Postnatal Bleeding and Irregular Bleeding?",
     "crumbs": [
       "Beautifying Your Salah",
       "Practical Scenarios"
@@ -69,8 +58,8 @@
     "objectID": "07-cases.html#other-difficult-situations",
     "href": "07-cases.html#other-difficult-situations",
     "title": "Practical Scenarios",
-    "section": "6 Other Difficult Situations?",
-    "text": "6 Other Difficult Situations?",
+    "section": "7 Other Difficult Situations?",
+    "text": "7 Other Difficult Situations?",
     "crumbs": [
       "Beautifying Your Salah",
       "Practical Scenarios"
@@ -80,8 +69,8 @@
     "objectID": "07-cases.html#basic-rules-about-prayer",
     "href": "07-cases.html#basic-rules-about-prayer",
     "title": "Practical Scenarios",
-    "section": "7 Basic Rules About Prayer",
-    "text": "7 Basic Rules About Prayer",
+    "section": "8 Basic Rules About Prayer",
+    "text": "8 Basic Rules About Prayer",
     "crumbs": [
       "Beautifying Your Salah",
       "Practical Scenarios"
@@ -99,8 +88,8 @@
     ]
   },
   {
-    "objectID": "05-demo.html#salah-with-two-units",
-    "href": "05-demo.html#salah-with-two-units",
+    "objectID": "05-demo.html#sec-two-units-demo",
+    "href": "05-demo.html#sec-two-units-demo",
     "title": "Salah Demonstrated",
     "section": "",
     "text": "APPEND A VIDEO HERE.\n\nMake sure to highlight pillars and obligation somehow.",
@@ -136,7 +125,7 @@
     "href": "03-pillars.html#sec-act-pillars",
     "title": "Pillars and Obligatory Acts",
     "section": "1 Pillars",
-    "text": "1 Pillars\nThese are the fundamental components of salah.\n\nStanding during obligatory salaat (only if you are able)\nThe opening Takbir (saying ’Allahu Akbar’)\nReciting Surah al-Fatihah\nRuku (bowing)\nRising from Ruku\nStanding up straight\nSujood (prostration)\nRising from Sujood\nSitting between the two prostrations\nSaying the final Tahahhud\nSitting for the final tahahhud and the salaams\nThe two salaams\nDoing these pillars in order\nBeing at ease in each of the physical pillars",
+    "text": "1 Pillars\nThese are the 14 fundamental components of salah:\n\nStanding during obligatory salaat (only if you are able)\nThe opening Takbir (saying ’Allahu Akbar’)\nYour browser does not support the audio tag.\nReciting Surah al-Fatihah\n\nRuku (bowing)\nRising from Ruku\nStanding up straight\nSujood (prostration)\nRising from Sujood\nSitting between the two prostrations\nSaying the final Tahahhud\nSitting for the final tahahhud and the salaams\nThe two salaams\nDoing these pillars in order\nBeing at ease in each of the physical pillars",
     "crumbs": [
       "The Essential Actions",
       "Pillars and Obligatory Acts"
@@ -147,7 +136,7 @@
     "href": "03-pillars.html#obligatory-acts",
     "title": "Pillars and Obligatory Acts",
     "section": "2 Obligatory Acts",
-    "text": "2 Obligatory Acts\n\nAll the Takbirs other than the opening Takbir.\nSaying ”\nSaying ”\nSaying ”\nSaying ”\nSaying ”\nSaying the first tashahhud\nSitting for the first tashahhud\n\n\n\n\n\n\n\nSee them in action in the next section.",
+    "text": "2 Obligatory Acts\nThese are the eight components of salah:\n\nAll the Takbirs other than the opening Takbir.\nSaying “Sami a Allahu liman hamidah (Allah hears those who praise Him)”\nYour browser does not support the audio tag.\nSaying “Rabbana wa laka l-hamd (Our Lord, to You be praise)”\nYour browser does not support the audio tag.\nSaying “Subhaana rabbiy al- adheem (Glory be to my Lord Almighty)” once when bowing\nYour browser does not support the audio tag.\nSaying “Subhaana rabbiy al-a laa (Glory be to my Lord most High)” once when prostrating\nYour browser does not support the audio tag.\nSaying “Rabbighfir li (Lord forgive me)” between the two prostration\nYour browser does not support the audio tag.\nSaying the first tashahhud\nYour browser does not support the audio tag.\nSitting for the first tashahhud\n\n\n\n\n\n\n\nSee the above in action in ?@sec-two-units-demo .",
     "crumbs": [
       "The Essential Actions",
       "Pillars and Obligatory Acts"
@@ -235,7 +224,7 @@
     "href": "00-index.html#module-outline",
     "title": "Prayer Guide for New Muslims",
     "section": "Module Outline",
-    "text": "Module Outline\nThe topics covered over the next seven weeks are:\n\n\n\nWeek\nSection\nTopic\n\n\n\n\n1\nGetting Started\nWhy Do We Pray?\n\n\n2\nGetting Started\nPre-requisites of Salah\n\n\n3\nThe Essential Actions\nPillars and Obligatory Acts\n\n\n4\nThe Essential Actions\nSalah Demonstrated\n\n\n5\nBeatifying Your Salah\nRecommended Acts\n\n\n6\nBeatifying Your Salah\nPractical Scenarios",
+    "text": "Module Outline\nThe topics covered over the next six weeks are:\n\n\n\nWeek\nSection\nTopic\n\n\n\n\n1\nGetting Started\nWhy Do We Pray?\n\n\n2\nGetting Started\nPre-requisites of Salah\n\n\n3\nThe Essential Actions\nPillars and Obligatory Acts\n\n\n4\nThe Essential Actions\nSalah Demonstrated\n\n\n5\nBeatifying Your Salah\nRecommended Acts\n\n\n6\nBeatifying Your Salah\nPractical Scenarios",
     "crumbs": [
       "Module Overview",
       "Welcome"
@@ -298,28 +287,6 @@
     "title": "Recommended Acts",
     "section": "2 Additional Salah",
     "text": "2 Additional Salah",
-    "crumbs": [
-      "Beautifying Your Salah",
-      "Recommended Acts"
-    ]
-  },
-  {
-    "objectID": "06-recommended.html#funeral-prayer-janazah",
-    "href": "06-recommended.html#funeral-prayer-janazah",
-    "title": "Recommended Acts",
-    "section": "3 Funeral Prayer (Janazah)",
-    "text": "3 Funeral Prayer (Janazah)",
-    "crumbs": [
-      "Beautifying Your Salah",
-      "Recommended Acts"
-    ]
-  },
-  {
-    "objectID": "06-recommended.html#section",
-    "href": "06-recommended.html#section",
-    "title": "Recommended Acts",
-    "section": "4 ",
-    "text": "4",
     "crumbs": [
       "Beautifying Your Salah",
       "Recommended Acts"

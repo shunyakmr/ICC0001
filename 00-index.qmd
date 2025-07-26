@@ -45,7 +45,7 @@ We hope this module helps you feel confident in your Salah and brings you closer
 
 ## Module Outline {.unnumbered}
 
-The topics covered over the next seven weeks are:
+The topics covered over the next six weeks are:
 
 | Week | Section | Topic |
 |------------------------|:-----------------------|:-----------------------|

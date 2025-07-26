@@ -2,8 +2,6 @@
 title: "Practical Scenarios"
 ---
 
-Or change the title to Common Questions... Because it kind of clashes with the previous Section.
-
 ## How Do I Pray with Others?
 
 ## What is the Friday Prayer (Jummah)?
@@ -13,6 +11,8 @@ Or change the title to Common Questions... Because it kind of clashes with the p
 ## What if I Come Late to a Congregational Prayer (Jammah)?
 
 ### How to Join
+
+## Funeral Prayer (Janazah)
 
 ## What Happens when I Travel?
 

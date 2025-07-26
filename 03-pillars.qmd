@@ -4,62 +4,80 @@ title: "Pillars and Obligatory Acts"
 
 In salah, **pillars (fard 'ayn)** are essential actions that invalidate the prayer if omitted, whether intentionally or unintentionally. **Obligatory acts (wajib)** are also necessary, but if forgotten, they can be compensated for by performing the prostrations of forgetfulness (*sujood as-sahw*).
 
-::: callout-tip
+::: callout-note
 The third category is **Sunnah acts**, which are recommended but not mandatory. They enhance the prayer but do not invalidate it if omitted. More on @sec-act-pillars .
 :::
 
 ## Pillars {#sec-act-pillars}
 
-These are the fundamental components of salah.
+These are the 14 fundamental components of salah:
 
--   Standing during obligatory salaat (only if you are able)
+1.  Standing during obligatory salaat (only if you are able)
 
--   The opening *Takbir (*saying '*Allahu Akbar')*
+2.  The opening Takbir *(*saying '*Allahu Akbar')*
 
--   Reciting *Surah al-Fatihah*
+    {{< audio file="assets/takbir.mp3">}}
 
--   *Ruku* (bowing)
+3.  Reciting Surah al-Fatihah
 
--   Rising from *Ruku*
+    {{< video file="assets/surah-al-fatihah.mp4">}}
 
--   Standing up straight
+4.  Ruku (bowing)
 
--   *Sujood* (prostration)
+5.  Rising from Ruku
 
--   Rising from *Sujood*
+6.  Standing up straight
 
--   Sitting between the two prostrations
+7.  Sujood (prostration)
 
--   Saying the final Tahahhud
+8.  Rising from Sujood
 
--   Sitting for the final tahahhud and the salaams
+9.  Sitting between the two prostrations
 
--   The two salaams
+10. Saying the final Tahahhud
 
--   Doing these pillars in order
+11. Sitting for the final tahahhud and the salaams
 
--   Being at ease in each of the physical pillars
+12. The two salaams
+
+13. Doing these pillars in order
+
+14. Being at ease in each of the physical pillars
 
 ## Obligatory Acts
 
--   All the Takbirs other than the opening Takbir.
+These are the eight components of salah:
 
--   Saying "
+1.  All the Takbirs other than the opening Takbir.
 
--   Saying "
+2.  Saying "*Sami a Allahu liman hamidah* (Allah hears those who praise Him)"
 
--   Saying "
+    {{< audio file="assets/obligatory-2.mp3" caption="">}}
 
--   Saying "
+3.  Saying "*Rabbana wa laka l-hamd* (Our Lord, to You be praise)"
 
--   Saying "
+    {{< audio file="assets/obligatory-3.mp3" caption="">}}
 
--   Saying the first tashahhud
+4.  Saying "*Subhaana rabbiy al- adheem* (Glory be to my Lord Almighty)" once when bowing
 
--   Sitting for the first tashahhud
+    {{< audio file="assets/obligatory-4.mp3" caption="">}}
 
-::: callout-tip
-See them in action in the next section.
+5.  Saying "*Subhaana rabbiy al-a laa* (Glory be to my Lord most High)" once when prostrating
+
+    {{< audio file="assets/obligatory-5.mp3" caption="">}}
+
+6.  Saying "*Rabbighfir li* (Lord forgive me)" between the two prostration
+
+    {{< audio file="assets/obligatory-6.mp3" caption="">}}
+
+7.  Saying the first tashahhud
+
+    {{< audio file="assets/tashahhud.mp3" caption="">}}
+
+8.  Sitting for the first tashahhud
+
+::: callout-note
+See the above in action in @sec-two-units-demo .
 :::
 
 ## What if I Miss a Pillar or Obligatory Act?

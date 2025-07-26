@@ -10,7 +10,7 @@ title: "Why Do We Pray?"
 
 -   When you pray, you are in a conversation with your Creator!
 
--   The second pillar of Islam and the only worship made obligatory in the seventh heaven. <!--# Not very clear what you mean here. Perhaps could even make a section about it, showing image of the other pillars -->
+-   The second pillar of Islam and the only worship made obligatory in the seventh heaven. <!--# Not very clear what you mean here. Perhaps could even make a section about it? -->
 
 ::: callout-tip
 Build your life around good communication with your Creator, and your life will change for the better!
@@ -25,7 +25,7 @@ knitr::include_graphics('image/pillars-picture.jpg')
 
 <!--# Evidence for the above? -->
 
-## Four Benefits of Salah From the Quran & the Sunnah
+## Benefits of Salah From the Quran & the Sunnah
 
 -   Removes evil and immorality from your life [\[29:45\]](https://quran.com/29/45)
 
@@ -34,6 +34,8 @@ knitr::include_graphics('image/pillars-picture.jpg')
 -   Calms your anxieties [\[70:19–23\]](https://quran.com/70/19-23)
 
 -   A source of peace, tranquillity and comfort [\[13:28\]](https://quran.com/13/28)[\[Abu-Dawood 4985\]](https://sunnah.com/abudawud:4985)
+
+<!--# Could elaborate on each one -->
 
 ::: callout-note
 Sunnah is a narration of the Prophet (SAW) that forms the basis of our understanding of Islam alongside the Quran. Sahih Bukhari and Muslim are two of the seven (?) main collections of Sunnah in which the narrations are considered authentic and reliable.

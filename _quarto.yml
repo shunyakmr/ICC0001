@@ -51,12 +51,12 @@ website:
       - section: "The Essential Actions"
         contents:
         - 03-pillars.qmd
-        - 04-obligatory.qmd
+        #- 04-obligatory.qmd
         - 05-demo.qmd
       - section: "Beautifying Your Salah"
         contents:
-        - 06-rulings.qmd
-        - 07-recommended.qmd
+        - 06-recommended.qmd
+        - 07-cases.qmd
       - section: "Additional Resources"
         contents:
         - 08-resources.qmd

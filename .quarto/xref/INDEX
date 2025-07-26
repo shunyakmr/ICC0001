@@ -37,5 +37,14 @@
   },
   "08-resources.qmd": {
     "08-resources.html": "1a7d0850"
+  },
+  "06-recommended.qmd": {
+    "06-recommended.html": "11a48189"
+  },
+  "07-cases.qmd": {
+    "07-cases.html": "0feca592"
+  },
+  "assets/two-unit-demo.qmd": {
+    "two-unit-demo.html": "6c5b83aa"
   }
 }

@@ -1,19 +1,65 @@
 ---
-title: "Pillars of Salah"
+title: "Pillars and Obligatory Acts"
 ---
 
-ACTIONS of Salah.
-
-There are obligatory and non-obligatory.
-
-Add a flow-chart (make in mermaid)
-
-Append a video!
-
-Surah-tul Fatiha
-
-Tashahhud
+In salah, **pillars (fard 'ayn)** are essential actions that invalidate the prayer if omitted, whether intentionally or unintentionally. **Obligatory acts (wajib)** are also necessary, but if forgotten, they can be compensated for by performing the prostrations of forgetfulness (*sujood as-sahw*).
 
 ::: callout-tip
-Islam is a **lifestyle change**. It may take you some time to learn the prayer, but **persevere** for the sake of your Creator and in time the prayer will become natural, If Allah Wills!
+The third category is **Sunnah acts**, which are recommended but not mandatory. They enhance the prayer but do not invalidate it if omitted. More on @sec-act-pillars .
 :::
+
+## Pillars {#sec-act-pillars}
+
+These are the fundamental components of salah.
+
+-   Standing during obligatory salaat (only if you are able)
+
+-   The opening *Takbir (*saying '*Allahu Akbar')*
+
+-   Reciting *Surah al-Fatihah*
+
+-   *Ruku* (bowing)
+
+-   Rising from *Ruku*
+
+-   Standing up straight
+
+-   *Sujood* (prostration)
+
+-   Rising from *Sujood*
+
+-   Sitting between the two prostrations
+
+-   Saying the final Tahahhud
+
+-   Sitting for the final tahahhud and the salaams
+
+-   The two salaams
+
+-   Doing these pillars in order
+
+-   Being at ease in each of the physical pillars
+
+## Obligatory Acts
+
+-   All the Takbirs other than the opening Takbir.
+
+-   Saying "
+
+-   Saying "
+
+-   Saying "
+
+-   Saying "
+
+-   Saying "
+
+-   Saying the first tashahhud
+
+-   Sitting for the first tashahhud
+
+::: callout-tip
+See them in action in the next section.
+:::
+
+## What if I Miss a Pillar or Obligatory Act?

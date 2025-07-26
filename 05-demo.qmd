@@ -6,9 +6,30 @@ title: "Salah Demonstrated"
 
 APPEND A VIDEO HERE.
 
+OR CAN BE THE REVEALJS SLIDES.
+
 -   Make sure to highlight pillars and obligation somehow.
 
+-   Apply this to longer prayers
+
+::: callout-tip
+Allah's Messenger peace be upon him said:\
+"Pray as you have seen me praying." \[[Sahih Bukahri 528](https://sunnah.com/bukhari:528)\]\
+\
+CHECK THE SOURCE
+:::
+
 ## Units in Salah
+
+The number of units (Raka'at) in each prayer is as follows:
+
+|                  |          |
+|------------------|----------|
+| Fajr (dawn)      | 2 rak'ah |
+| Dhuhr (midday)   | 4 rak'ah |
+| Asr (afternoon)  | 4 rak'ah |
+| Maghrib (sunset) | 3 rak'ah |
+| Isha (night)     | 4 rak'ah |
 
 ### Three-Unit Salaat
 

@@ -36,6 +36,12 @@ These are the 14 fundamental components of salah:
 
 10. Saying the final Tahahhud
 
+    |  |  |
+    |----|----|
+    | Attaḥiyyātu lillāhi waṣṣalawātu, waṭṭayyibāt, assalāmu alayka 'ayyuhan-Nabiyyu wa raḥmatullāhi wa barakātuh, assalāmualaynā wa alā ‘ibādillāhiṣ-ṣāliḥīn. 'Ash-hadu 'an lā 'ilāha 'illallāh wa 'ash-hadu 'anna Muḥammadanabduhu wa rasūluh. | All greetings of humility are for Allah, and all prayers and goodness. Peace be upon you, O Prophet, and the mercy of Allah and His blessings. Peace be upon us and upon the righteous slaves of Allah. I bear witness that there is none worthy of worship but Allah, and I bear witness that Muhammad is His slave and His Messenger. |
+
+    {{< audio file="assets/tashahhud.mp3" caption="">}}
+
 11. Sitting for the final tahahhud and the salaams
 
 12. The two salaams
@@ -72,8 +78,6 @@ These are the eight components of salah:
 
 7.  Saying the first tashahhud
 
-    {{< audio file="assets/tashahhud.mp3" caption="">}}
-
 8.  Sitting for the first tashahhud
 
 ::: callout-note
@@ -81,3 +85,11 @@ See the above in action in @sec-two-units-demo .
 :::
 
 ## What if I Miss a Pillar or Obligatory Act?
+
+## What if I Can't Remember the Words?
+
+<https://sunnah.com/abudawud:861>
+
+### Replacement of Surah al-Fatihah
+
+### Replacement of Tashahhud

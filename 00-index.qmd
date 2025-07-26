@@ -1,54 +1,65 @@
 ---
 title: "Prayer Guide for New Muslims" 
-subtitle: "Presented by the London Central Mosque Trust & The Islamic Cultural Centre"
+subtitle: "Presented by the London Central Mosque Trust & The Islamic Cultural Centre (ICC)"
 ---
 
-## Welcome {.unnumbered}
+## Welcome! {.unnumbered}
 
-This course is designed for **new Muslims** and for anyone who wants to **refresh their understanding of Salah (the prayer)**.
+Located beside Regent’s Park, the London Central Mosque and Islamic Cultural Centre is one of the UK’s most recognized Muslim institutions. Opened in 1977, it was established to serve both the spiritual and educational needs of the Muslim community. The mosque is known for its iconic golden dome, welcoming atmosphere and commitment to promoting inter-faith unity. It hosts daily prayers, lectures and cultural events, attracting visitors from around the world.
 
-We created this course at the London Central Mosque because many of the resources available today on videos, booklets and blogs can be overwhelming.
+```{r}
+#| echo: false
+#| cache: True
+#| out.width: "100%"
+knitr::include_graphics('image/dome-picture.jpg') 
+```
+
+This module is designed for new Muslims and for anyone who wants to **refresh their understanding of Salah (the prayer)**.
+
+We created this moduel at the ICC because many of the resources available today on videos and booklets can be a bit overwhelming.
 
 They often include:
 
--   Too many **Sunnah (recommended)** actions, which are not required for the Salah to be valid. <!--# Are we sure? Sounds too dismissive of the others... Maybe soften it up or combine with the last point -->
--   Content exclusively in **Arabic**, which can make learning feel difficult and discouraging for non-Arabic speakers.
--   A lack of clear structure where many do not explain the difference between what’s **essential** and what’s **optional**, or how to build up your Salah step by step.
+-   Too many **Sunnah (recommended)** actions, which are not obligatory for the Salah to be valid.
+-   Content exclusively in **Arabic**, which can make learning difficult or discouraging for beginners.
+-   A lack of clear structure where many do not explain the difference between what is **essential** and **optional**, or how to build up your Salah **step by step**.
 
 As a result, learning how to pray can feel confusing or take much longer than it should.
 
-## What Makes This Course Different? {.unnumbered}
+## Learning Outcomes {.unnumbered}
 
-We focus on keeping it simple, practical and spiritually meaningful.
+We focus on keeping things simple, practical and spiritually meaningful.
 
-In this course, you will:
+In this module, you will learn:
 
-1.  Learn the **pillars and required actions** of the Salah, what you need to do for your Salah to be valid.
-2.  Learn how to recite **Surat Al-Fatihah**, the essential chapter in every unit of Salah plus and **Tashahud** which is essential also.
-3.  Understand the **basic rules** related to Salah like cleanliness, direction, timing and join a congregation.
-4.  Discover the spiritual meaning of Salah like how it connects you with your Creator and brings peace to the heart.
+1.  The **pillars and required actions** of the Salah, what you need to do for your Salah to be valid.
+2.  How to recite **Surat Al-Fatihah**, the essential chapter in every unit of Salah plus and **Tashahud** which is essential also.
+3.  The **basic rules** related to Salah like cleanliness, direction, timing and join a congregation.
+4.  The spiritual meaning of Salah like how it connects you with your Creator and brings peace to the heart.
 
-Once you’ve learned the basics, you’ll be in a strong position to gradually add more **Sunnah practices** and deepen your Salah over time.
+<!--# Perhaps change the order of above and make it link better to the whole module structure -->
 
-We hope this course helps you feel confident in your Salah and brings you closer to Allah, InShaAllah.
+Once you have learned the basics, you will be in a strong position to gradually add more **Sunnah practices** and deepen your Salah over time.
 
-## Course Outline {.unnumbered}
+We hope this module helps you feel confident in your Salah and brings you closer to Allah, InShaAllah!
 
-The topics covered are:
+## Module Outline {.unnumbered}
 
-| Section | Topic                                                     |
-|:--------|:----------------------------------------------------------|
-| 1       | [Importance of Salah]({{< var urls.u01 >}})               |
-| 1       | [Conditions/Prerequisites of Salah]({{< var urls.u02 >}}) |
-| 2       | [Pillars of Salah]({{< var urls.u03 >}})                  |
-| 2       | [Obligatory Acts of Salah]({{< var urls.u04 >}})          |
-| 2       | [Salah Demonstrated]({{< var urls.u05 >}})                |
-| 3       | [Rulings Related to Salah]({{< var urls.u06 >}})          |
-| 3       | [Recommended Actions]({{< var urls.u07 >}})               |
+The topics covered over the next seven weeks are:
+
+| Week | Section | Topic |
+|------------------------|:-----------------------|:-----------------------|
+| 1 | Getting Started | [Why Do We Pray?]({{< var urls.u01 >}}) |
+| 2 | Getting Started | [Pre-requisites of Salah]({{< var urls.u02 >}}) |
+| 3 | The Essential Actions | [Pillars of Salah]({{< var urls.u03 >}}) |
+| 4 | The Essential Actions | [Obligatory Acts of Salah]({{< var urls.u04 >}}) |
+| 5 | The Essential Actions | [Salah Demonstrated]({{< var urls.u05 >}}) |
+| 6 | Beatifying Your Salah | [Rulings Related to Salah]({{< var urls.u06 >}}) |
+| 7 | Beatifying Your Salah | [Recommended Actions]({{< var urls.u07 >}}) |
 
 ## Acknowledgements {.unnumbered}
 
-Sh Ali Ruwaiba as the lead-author... Dr Shunya Kimura and James Sampson as the editor...
+Sh. Ali Ruwaiba as the lead-author... Dr. Shunya Kimura and James Sampson as the editor...
 
 This workbook is created using the [Quarto](https://quarto.org/) publishing system. Elements of this workbook are partially based on and modified from:
 

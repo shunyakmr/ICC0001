@@ -1,5 +1,5 @@
 ---
-title: "Importance of Salah"
+title: "Why Do We Pray?"
 ---
 
 ## Salah is a Connection with Your Creator
@@ -15,6 +15,13 @@ title: "Importance of Salah"
 ::: callout-tip
 Build your life around good communication with your Creator, and your life will change for the better!
 :::
+
+```{r}
+#| echo: false
+#| cache: True
+#| out.width: "100%"
+knitr::include_graphics('image/pillars-picture.jpg') 
+```
 
 <!--# Evidence for the above? -->
 

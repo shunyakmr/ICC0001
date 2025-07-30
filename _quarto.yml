@@ -37,7 +37,7 @@ website:
   sidebar:
     style: floating
     collapse-level: 2
-    logo: assets/icclogo99.jpg
+    logo: assets/icclogo99-2.jpg
     tools:
       - icon: github
         href: https://github.com/shunyakmr/ICC0001

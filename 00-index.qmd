@@ -48,13 +48,13 @@ We hope this module helps you feel confident in your Salah and brings you closer
 The topics covered over the next six weeks are:
 
 | Week | Section | Topic |
-|------------------------|:-----------------------|:-----------------------|
+|----|:---|:---|
 | 1 | Getting Started | [Why Do We Pray?]({{< var urls.u01 >}}) |
 | 2 | Getting Started | [Pre-requisites of Salah]({{< var urls.u02 >}}) |
 | 3 | The Essential Actions | [Pillars and Obligatory Acts]({{< var urls.u03 >}}) |
 | 4 | The Essential Actions | [Salah Demonstrated]({{< var urls.u05 >}}) |
-| 5 | Beatifying Your Salah | [Recommended Acts]({{< var urls.u06 >}}) |
-| 6 | Beatifying Your Salah | [Practical Scenarios]({{< var urls.u07 >}}) |
+| 5 | Beautifying Your Salah | [Recommended Acts]({{< var urls.u06 >}}) |
+| 6 | Beautifying Your Salah | [Practical Scenarios]({{< var urls.u07 >}}) |
 
 ## Acknowledgements {.unnumbered}
 

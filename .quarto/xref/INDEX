@@ -46,5 +46,8 @@
   },
   "assets/two-unit-demo.qmd": {
     "two-unit-demo.html": "6c5b83aa"
+  },
+  "docs/assets/two-unit-demo.qmd": {
+    "two-unit-demo.html": "a0b7cefb"
   }
 }

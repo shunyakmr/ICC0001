@@ -1,4 +1,0 @@
----
-title: "Two-Unit Salah"
-format: revealjs
----

@@ -3,7 +3,7 @@ title: "Prayer Guide for New Muslims"
 subtitle: "Presented by the London Central Mosque Trust & The Islamic Cultural Centre (ICC)"
 ---
 
-## Welcome! {.unnumbered}
+## Welcome! TEST {.unnumbered}
 
 Located beside Regent’s Park, the London Central Mosque and Islamic Cultural Centre is one of the UK’s most recognized Muslim institutions. Opened in 1977, it was established to serve both the spiritual and educational needs of the Muslim community. The mosque is known for its iconic golden dome, welcoming atmosphere and commitment to promoting inter-faith unity. It hosts daily prayers, lectures and cultural events, attracting visitors from around the world.
 
@@ -48,7 +48,7 @@ We hope this module helps you feel confident in your Salah and brings you closer
 The topics covered over the next six weeks are:
 
 | Week | Section | Topic |
-|----|:---|:---|
+|------------------------|:-----------------------|:-----------------------|
 | 1 | Getting Started | [Why Do We Pray?]({{< var urls.u01 >}}) |
 | 2 | Getting Started | [Pre-requisites of Salah]({{< var urls.u02 >}}) |
 | 3 | The Essential Actions | [Pillars and Obligatory Acts]({{< var urls.u03 >}}) |
